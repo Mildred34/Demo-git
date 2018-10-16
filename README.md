@@ -1,2 +1,2 @@
 # Demo-git
-A demonstration of git
+Une demo de git en français
